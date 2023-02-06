@@ -1,7 +1,6 @@
 package org.campus02.test;
 
 import org.campus02.BMIAnalyzer;
-import org.campus02.MaxSalaryAnalyzer;
 import org.campus02.Person;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
